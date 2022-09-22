@@ -1,5 +1,18 @@
 # CSC-560-Unit-3-Unit-Tests
 
+Applied Restful API & Integration
+CSC 560
+Dr. Litman
+
+ Unit 3
+Unit Tests
+August – October 2022
+
+Andrea M. Tadlock
+CUW ID - F00530415
+09/21/2022
+
+
 
 What I thought was going to be a step-by-step tutorial learning, did twists and turns to incompletion. This does not make me happy and all in all I am not satisfied where I ended for this assignment. My first pass through of the Unit Test assignment, I was getting errors on an invalid character syntax. At that point, I decided to begin again. I even did a second review of the tutorial to help me focus before my second try. 
 
